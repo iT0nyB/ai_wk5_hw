@@ -42,7 +42,7 @@ next-env.d.ts
 #ide
 .idea/*
 
-/ai_wk5_hw_fe/public/uploads
+/ai_wk5_hw_fe/public/uploads/*
 
 */.idea
 
